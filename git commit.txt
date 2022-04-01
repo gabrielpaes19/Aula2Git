@@ -1,0 +1,1 @@
+git commit -m "mensagem", a msg vai registrar oq foi alterado ou criado neste repositorio
