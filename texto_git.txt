@@ -1,1 +1,3 @@
 git push empurra os arquivos para o hub
+
+git add adiciona os arquivos para serem enviados
